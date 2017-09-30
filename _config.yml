@@ -1,0 +1,66 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Francisco Javier Ponce Cruz
+email: fco.poncecruz@gmail.com
+description: Software Engineer.
+url: https://fjavierponce.github.io # the base hostname & protocol for your site
+keywords: ["Programming", "Java", "Maven", "Spring", "Python", "Machine Learning"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          America/Mexico_City
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Francisco Ponce
+  avatar: me.jpg
+  job: "Software Engineer"
+  bio: "Java. Back-end. Spring Boot. Machine Learning. Chai latte and books."
+  email: fco.poncecruz@gmail.com
+  disqus-shortname: fponce
+  twitter: coderjponce #username
+  google:
+    plus: #username
+    analytics: #UA-62251910-2
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: fjavierponce #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: fcoponcecruz #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username
