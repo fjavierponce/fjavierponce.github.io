@@ -7,7 +7,7 @@ title: Francisco Javier Ponce Cruz
 email: fco.poncecruz@gmail.com
 description: Software Engineer.
 url: https://fjavierponce.github.io # the base hostname & protocol for your site
-keywords: ["Programming", "Java", "Maven", "Spring", "Python", "Machine Learning"]
+keywords: ["Programming", "Java", "Maven", "Spring"]
 
 #
 ###################################
@@ -36,7 +36,6 @@ owner:
   name: Francisco Ponce
   avatar: me.jpg
   job: "Software Engineer"
-  bio: "Java. Back-end. Spring Boot. Machine Learning. Chai latte and books."
   email: fco.poncecruz@gmail.com
   disqus-shortname: fponce
   twitter: coderjponce #username
