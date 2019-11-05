@@ -1,8 +1,14 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: Instituto Politécnico Nacional (ESCOM)
+  link: http://www.escom.ipn.mx/
+  date: 2011 - 2015
+  desc: B.E. Computer Systems Engineering
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: Czech Technical University in Prague
+  link: https://www.cvut.cz/en
+  date: 2013
+  desc: International Exchange Program
+
+- name: Instituto Politécnico Nacional CECyT 9
+  link: https://www.cecyt9.ipn.mx/
+  date: 2008 - 2010
+  desc: Computer Technician
