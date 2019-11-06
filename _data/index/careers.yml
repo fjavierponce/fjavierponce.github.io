@@ -1,16 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: SkyTouch Technology (via Nearsoft)
+  link: https://skytouchtechnology.com/
+  date: 10/2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Software Engineer
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: Lending Club (via Globant)
+  link: https://www.lendingclub.com/
+  date: 12/2017 – 10/2018 
+  job: Java Developer
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: Tom Sawyer Software
+  link: https://www.tomsawyer.com/
+  date: 07/2016 – 12/2017
+  job: Product Development Engineer
+
+- name: Legosoft Soluciones
+  link: http://www.legosoft.com.mx/?lang=en
+  date: 05/2015 – 06/2016
+  job: Java Liferay Developer
